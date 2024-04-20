@@ -1,4 +1,4 @@
-# Calculadora Básica
+# Calculadora Básica 🧮
 
 <div>
   <img src="https://github.com/skypse/Projeto-02-JavaScript-Calculador/assets/97822775/7a5b49a5-b2f3-417b-a83f-1429a671b401" alt="">
@@ -8,10 +8,10 @@ Este é um projeto de uma calculadora básica desenvolvida em JS e CSS durante o
 A calculadora oferece funcionalidades como adição, subtração, multiplicação e divisão, tornando-a uma ferramenta útil para cálculos do dia a dia.
 ### Recursos Principais:
 
-- Adição de números
-- Subtração de números
-- Multiplicação de números
-- Divisão de números
+- Adição de números ➕
+- Subtração de números ➖
+- Multiplicação de números ✖️
+- Divisão de números ➗
 
 ### Observações:
 
